@@ -5,6 +5,7 @@
 ### I'm interested in Software and Cloud Engineering
 ### I'm looking to contribute to Open-Source Projects as part of building my own
 ## Please reach out if you need help or someone to contribute to anything you're working on
++ Emai: durondbell13@gmail.com
 
 
 Fun Fact: My favorite TV Show when I was a kid is Cyber Chase hence the name

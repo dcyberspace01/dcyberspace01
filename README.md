@@ -1,10 +1,10 @@
 # Hello 👋 Welcome to my GitHub Profile
-## This Page contains all  of the Apps and Projects I am currently working on
-## I am a Computer Administator looking to transition into Web App Development
-## I'm currently advancing :man_student: :microscope: my HTML, CSS, JavaScript, React, React Native, PostgreSQL, and MongoDB skills
-## I eventually want to transition into Software Engineering and Cloud Development
-## I'm looking to contribute to Open-Source Projects as part of building my own
-## Please reach out if you need help or someone to contribute to anything you re working on
+### This Page contains all  of the Apps and Projects I am currently working on
+### I am a Computer Administator looking to transition into Web App Development
+### I'm currently advancing :man_student: :microscope: my HTML, CSS, JavaScript, React, React Native, PostgreSQL, and MongoDB skills
+### I eventually want to transition into Software Engineering and Cloud Development
+### I'm looking to contribute to Open-Source Projects as part of building my own
+## Please reach out if you need help or someone to contribute to anything you're working on
 
 
 Fun Fact: My favorite TV Show when I was a kid is Cyber Chase hence the name

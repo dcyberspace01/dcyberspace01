@@ -7,7 +7,7 @@
 
 ### I am a Computer Administator looking to transition into Software Engineering
 
-### I'm currently studying :man_student: :microscope:  
+### I'm currently studying :man_student: :microscope: more advanced features of  
 -HTML 
 -CSS 
 -JavaScript

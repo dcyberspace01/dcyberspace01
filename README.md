@@ -1,6 +1,6 @@
 
-![Screenshot of a comment on a GitHub issue showing an im![2025-04-29 18_45_06-Window](https://github.com/user-attachments/assets/033dd709-6b70-4635-9b7d-69b8caeb8b9d)
-age, added in the Markdown, of an Octocat smiling and raising a tentacle.]
+[2025-04-29 18_45_06-Window](https://github.com/user-attachments/assets/033dd709-6b70-4635-9b7d-69b8caeb8b9d)
+
 # <ins> Hello 👋 Welcome to my GitHub Profile </ins>
 ### This Page contains all  of the Apps and Projects I am currently working on
 

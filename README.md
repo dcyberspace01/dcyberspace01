@@ -17,9 +17,9 @@
 + MongoDB 
 
 ### I'm interested in...
--Open Source Development
--Cloud Engineering
--Web App Development
+- Open Source Development
+- Cloud Engineering
+- Web App Development
 
 ### I'm looking to contribute to Open-Source Projects as part of building my own
 Please reach out if you need help or someone to contribute to anything you're working on

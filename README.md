@@ -18,7 +18,7 @@
 + Email: durondbell13@gmail.com
 
 
-Fun Fact: My favorite TV Show when I was a kid is Cyber Chase hence the name
+Fun Fact: My favorite TV Show when I was a kid was Cyber Chase hence the name
 <!--
 **dcyberspace01/dcyberspace01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

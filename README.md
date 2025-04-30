@@ -1,3 +1,5 @@
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.pexels.com/photo/lightning-on-the-sky-1294229/)
 # <ins> Hello 👋 Welcome to my GitHub Profile </ins>
 ### This Page contains all  of the Apps and Projects I am currently working on
 

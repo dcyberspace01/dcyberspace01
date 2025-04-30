@@ -7,14 +7,14 @@
 
 ### I am a Computer Administator looking to transition into Software Engineering
 
-### I'm currently studying
--HTML 
--CSS 
--JavaScript
--React 
--React Native 
--PostgreSQL 
--MongoDB 
+### I'm currently studying...
++HTML 
++CSS 
++JavaScript
++React 
++React Native 
++PostgreSQL 
++MongoDB 
 
 ### I'm interested in...
 -Open Source Development

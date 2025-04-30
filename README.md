@@ -5,7 +5,7 @@
 
 ### This Page contains all  of the Apps and Projects I am currently working on
 
-### I am a Computer Administator looking to transition into Web App Development
+### I am a Computer Administator looking to transition into Software Engineering
 
 ### I'm currently advancing :man_student: :microscope: my HTML, CSS, JavaScript, React, React Native, PostgreSQL, and MongoDB skills
 

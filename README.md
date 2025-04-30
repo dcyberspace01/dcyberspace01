@@ -3,18 +3,26 @@
 
 
 
-### This Page contains all  of the Apps and Projects I am currently working on
+## This Page contains all  of the Apps and Projects I am currently working on
 
 ### I am a Computer Administator looking to transition into Software Engineering
 
-### I'm currently advancing :man_student: :microscope: my HTML, CSS, JavaScript, React, React Native, PostgreSQL, and MongoDB skills
+### I'm currently studying :man_student: :microscope:  
+-HTML 
+-CSS 
+-JavaScript
+-React 
+-React Native 
+-PostgreSQL 
+-MongoDB 
 
-### I'm interested in Software and Cloud Engineering
+### I'm interested in...
+-Open Source Development
+-Cloud Engineering
+-Web App Development
 
 ### I'm looking to contribute to Open-Source Projects as part of building my own
-
-## Please reach out if you need help or someone to contribute to anything you're working on
-
+Please reach out if you need help or someone to contribute to anything you're working on
 + Email: durondbell13@gmail.com
 
 

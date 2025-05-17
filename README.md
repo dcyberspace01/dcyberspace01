@@ -15,8 +15,8 @@
 + HTML 
 + CSS 
 + JavaScript
++ Tailwind CSS
 + React 
-+ React Native 
 + PostgreSQL 
 + MongoDB 
 
